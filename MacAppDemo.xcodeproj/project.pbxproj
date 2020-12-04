@@ -46,6 +46,7 @@
 		56D23019257A671D0057B912 /* MacAppDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MacAppDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56D2301D257A671D0057B912 /* MacAppDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacAppDemoUITests.swift; sourceTree = "<group>"; };
 		56D2301F257A671D0057B912 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56D2303D257A75FB0057B912 /* MacAppDemo copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "MacAppDemo copy-Info.plist"; path = "/Users/vsac/Documents/Repro/MacAppDemo/MacAppDemo/MacAppDemo copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +81,7 @@
 				56D23011257A671D0057B912 /* MacAppDemoTests */,
 				56D2301C257A671D0057B912 /* MacAppDemoUITests */,
 				56D22FFD257A67190057B912 /* Products */,
+				56D2303D257A75FB0057B912 /* MacAppDemo copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
